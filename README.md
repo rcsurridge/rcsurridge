@@ -1,7 +1,5 @@
 # About Me
 
-<img src="img/profile.jpg" width="200" height="200">
-
 Greetings! I'm Bobby.
 
 Over the past year, I have delved into the realm of data science, focusing on big data engineering, data architecture, and data visualization.
