@@ -1,14 +1,6 @@
 # About Me
 
-<style>
-mark{
-    float: left;
-    max-width: 200px;
-    max-height: 200px;
-}
-</style>
-
-<mark>![Profile Image](img/profile.jpg)</mark>
+![Profile Image](img/profile.jpg){: style="float: left; max-width: 200px; max-height: 200px; margin-right: 20px;"}
 
 Greetings! I'm Bobby.
 
