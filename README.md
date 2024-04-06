@@ -1,6 +1,6 @@
 # About
 
-![Profile Image](img/profile.jpg)
+![Profile Image](profile.jpg)
 
 Greetings! I'm Bobby.
 
