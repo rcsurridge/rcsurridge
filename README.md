@@ -1,4 +1,6 @@
-![Profile Image](img/profile.jpg#left)
+# About Me
+
+<img src="img/profile.jpg#left" style="float: left; max-width: 200px; max-height: 200px; margin-right: 20px;">
 
 Greetings! I'm Bobby.
 
