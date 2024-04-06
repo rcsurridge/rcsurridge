@@ -1,6 +1,4 @@
-# About Me
-
-👋 Greetings! I'm Bobby.
+# 👋 Greetings! I'm Bobby
 
 Over the past year, I have delved into the realm of data science, focusing on...
 
