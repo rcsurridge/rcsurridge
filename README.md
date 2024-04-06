@@ -1,6 +1,6 @@
 # About
 
-![Profile Image](profile.jpg)
+<img src="profile.jpg" width="200" height="200">
 
 Greetings! I'm Bobby.
 
