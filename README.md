@@ -1,6 +1,14 @@
 # About Me
 
-<img src="img/profile.jpg#left" style="float: left; max-width: 200px; max-height: 200px; margin-right: 20px;">
+<style>
+mark{
+    float: left;
+    max-width: 200px;
+    max-height: 200px;
+}
+</style>
+
+<mark>![Profile Image](img/profile.jpg)</mark>
 
 Greetings! I'm Bobby.
 
