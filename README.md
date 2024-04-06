@@ -1,4 +1,4 @@
-<img style"float: left;" src="profile.jpg" width="200" height="200">
+<img style="float: left;" src="profile.jpg" width="200" height="200">
 
 Greetings! I'm Bobby.
 
