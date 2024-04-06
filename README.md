@@ -1,6 +1,6 @@
 # About Me
 
-![Profile Image](img/profile.jpg){: style="float: left"}
+![Profile Image](img/profile.jpg){: .img-left}
 
 Greetings! I'm Bobby.
 

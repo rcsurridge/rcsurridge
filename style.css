@@ -1,4 +1,6 @@
 .img-left {
     float: left;
     margin-right: 1em;
+    max-width: 200px;
+    max-height: 200px
   }
