@@ -1,6 +1,6 @@
 # About Me
 
-![Profile Image](img/profile.jpg){: style="float: left; max-width: 200px; max-height: 200px; margin-right: 20px;"}
+![Profile Image](img/profile.jpg){: style="float: left"}
 
 Greetings! I'm Bobby.
 

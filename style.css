@@ -1,5 +1,4 @@
-img[src*='#left'] {
+.img-left {
     float: left;
-    max-width: 200px;
-    max-height: 200px;
-}
+    margin-right: 1em;
+  }
