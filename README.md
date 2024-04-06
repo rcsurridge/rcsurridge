@@ -1,4 +1,4 @@
-![Profile Image](profile.jpg#left)
+![Profile Image](img/profile.jpg#left)
 
 Greetings! I'm Bobby.
 
