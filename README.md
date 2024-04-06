@@ -12,5 +12,4 @@ Now, in my final year of graduate studies, I am eagerly seeking full and part-ti
 
 You can learn more about me via the following links:
 
-- [Homepage](https://rcsurridge.github.io/website/)
-- [LinkedIn](https://linkedin.com/bobby-surridge)
+🏠 [Homepage](https://rcsurridge.github.io/website/) &nbsp;&nbsp; 🔗 [LinkedIn](https://linkedin.com/bobby-surridge)
