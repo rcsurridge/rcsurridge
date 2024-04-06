@@ -1,6 +1,6 @@
 # About Me
 
-![Profile Image](img/profile.jpg){: .img-left}
+<img src="img/profile.jpg" width="200" height="200">
 
 Greetings! I'm Bobby.
 
